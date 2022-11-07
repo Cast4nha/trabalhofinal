@@ -2,17 +2,17 @@ let perguntas = [
 {
 	titulo: 'É possível votar em dois candidatos a presidência?',
 	alternativas: ['Sim','Não','Talvez','Somente no municipio'],
-	correta: 0
+	correta: 1
 },
 {
-	titulo: 'Fire',
-	alternativas: ['Fogo','Agua','Terra','Ar'],
-	correta: 0
-},
-{
-	titulo: 'Bird',
-	alternativas: ['Gato','Urubu','Pombo','Passaro'],
+	titulo: 'Como descobrir se uma notícia é fake news?',
+	alternativas: ['Passar adiante','Excluir','Postar no twitter','Buscar os sites de checagem'],
 	correta: 3
+},
+{
+	titulo: 'As urnas são inauditaveis?',
+	alternativas: ['Sim, são como um cofre fechado','Somente o exercito pode olhar','Não, a urna passa por diversas auditorias','Sim, vivemos em uma ditadura.'],
+	correta: 2
 }
 ]
 
